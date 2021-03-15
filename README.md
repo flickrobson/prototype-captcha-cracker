@@ -1,4 +1,3 @@
-@@ -1 +1,24 @@
 # prototype-captcha-cracker
 
 GUI:
